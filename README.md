@@ -1,5 +1,5 @@
 # RootChordGen
-A protoplug that adds the root note of a chord to the midi
+A [protoplug](https://www.osar.fr/protoplug/) script that adds the root note of a chord to the midi
 
 # Parameters
 - N of Chord notes - The number of notes in the chord.
