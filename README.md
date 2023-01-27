@@ -1,5 +1,5 @@
 # RootChordGen
-A [protoplug](https://www.osar.fr/protoplug/) script that adds the root note of a chord to the midi
+A [protoplug](https://www.osar.fr/protoplug/) script that detects the chord, even if it's an inversion, and adds the root note of the chord.
 
 # Parameters
 - N of Chord notes - The number of notes in the chord.
